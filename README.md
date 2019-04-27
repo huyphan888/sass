@@ -1,1 +1,1 @@
-chỉ cần nhấn lệnh gulp là 
+chỉ cần nhấn lệnh gulp là xong
